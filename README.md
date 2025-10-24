@@ -1,1 +1,2 @@
-"Primeiro arquivo do reposit¢rio" 
+"Primeiro arquivo do repositÂ¢rio" 
+"Frist test repository"
